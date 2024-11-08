@@ -11,6 +11,8 @@ If you're unable to afford the court fees, try filling out the [Uniform Civil Af
 ## Documents
 When filing, you will need to provide the appropriate information from the [Tennessee Proof of Residency](https://www.tn.gov/safety/driver-services/classd/tnresidency.html) documents list. This is to let them know you are who you say you are.
 
+You may need to obtain the services of a notary public at this step for your paperwork.
+
 ## Courtroom Information (if needed)
 If you're required to appear before the judge, they will ask you to confirm that you are who you say you are, that you are changing your name to the one as listed in the document, and confirm you are not doing this to avoid debt, avoid the law, or in order to commit fraud. Then they will sign the court order. They may also require that you also sign the court order so be prepared to sign with your new signature. Practicing your new signature ahead of time avoids any awkward moments.
 
