@@ -1,6 +1,8 @@
 # Tennessee Name Change
 
 ## Summary
+This step happens before you [update your IDs](TN-UpdateIds.md).
+
 The procedure depends on your county. Some counties have a form that goes through the county clerk's office and others require you to make your own court petition as well as court order for the judge to sign. You'll need to check with your local county clerk and chancery court to see which way they do it.
 
 ## Fees
